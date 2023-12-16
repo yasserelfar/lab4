@@ -3,8 +3,7 @@ using namespace std;
 int main()
 {
 
-
-cout<<"hello yasso desokey";
+cout<<"hello yasso elfar";
 
 cout<<"bye";
 cout<<"y v";
